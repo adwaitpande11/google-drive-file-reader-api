@@ -1,0 +1,5 @@
+service-account-secret.json
+**/venv
+**/.idea
+**/.git
+*.zip
